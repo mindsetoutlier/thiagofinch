@@ -1,0 +1,21 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_313_688" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="45" height="44">
+<ellipse rx="14.6667" ry="14.6667" transform="matrix(-1 1.74846e-07 1.74846e-07 1 22.0001 23.8333)" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.3346 14.8345C23.0136 14.312 25.7856 15.0207 27.885 16.7648C29.9845 18.5089 31.1893 21.104 31.1668 23.8333" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.5182 17.3515L20.0555 21.8888" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse rx="2.75" ry="2.75" transform="matrix(-1 1.74846e-07 1.74846e-07 1 22.0001 23.8333)" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.6667 3.66667L18.3334 3.66667" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.33342 9.16667L11.6234 13.4567" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.16675 7.33334L5.50008 11" stroke="#323232" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_313_688)">
+<rect width="44" height="44" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 44)" fill="#7240FF"/>
+<rect width="44" height="44" transform="matrix(1 -8.74228e-08 -8.74228e-08 -1 0 44)" fill="url(#paint0_linear_313_688)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_313_688" x1="0" y1="0" x2="52.0811" y2="14.0546" gradientUnits="userSpaceOnUse">
+<stop stop-color="#911357" stop-opacity="0.92"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
